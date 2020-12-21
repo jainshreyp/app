@@ -22,7 +22,7 @@ function App() {
           >
             React
           </a>
-          <span>, </span>
+          <span> </span>
           <a
             className="App-link"
             href="https://redux.js.org/"
