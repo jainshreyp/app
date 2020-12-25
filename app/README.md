@@ -68,7 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-- [-x] proficiency with react and functional components
+- [x] proficiency with react and functional components
 - [x] proficiency with hooks like useState and useMemo
 - [x] profiency with redux actions and selectors
 - [x] profiency with redux saga

@@ -1,4 +1,4 @@
-const redux = require('redux')
+import redux from 'redux'
 
 
 //reduction function, only has a param of state and action
